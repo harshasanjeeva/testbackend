@@ -1,3 +1,4 @@
 {
-    "database":"mongodb://localhost/testbackend"
+    "database":"mongodb://heroku_8nd0qvdr:ou4vfds5vbk3dgjabi38no4
+    lk0@ds121945.mlab.com:21945/heroku_8nd0qvdr"
 }
